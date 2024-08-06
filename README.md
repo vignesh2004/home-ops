@@ -1,5 +1,7 @@
 <div align="center">
 
+Original: https://github.com/sholdee/home-ops
+
 # K3s Home Operations
 
 _... managed with ArgoCD and Renovate_
